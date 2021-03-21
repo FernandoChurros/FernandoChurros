@@ -8,7 +8,7 @@
 
 <p>
   <a href="#">
-    <img src="#" alt="LinkedIn">
+    <img src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&page=1&position=1&related_id=174857&origin=style" alt="LinkedIn">
   </a>
 </p>
 <!--
