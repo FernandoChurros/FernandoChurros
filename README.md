@@ -1,5 +1,7 @@
 ## *Oie, Passa-te o Churros, aceitas ? 👋*
 
+🌻 Começando a programar, GitHub cultural, sempre codando sobre cultura, e hoje com o maior nome da programação alternativa.
+
 ### *Sobre mim*
 
 - 🎵 &nbsp; MPB | Samba
