@@ -1,22 +1,27 @@
 ## *Oie, eu sou o Fernando Churros 👋*
 
+---
+
 ### *Sobre mim*
 
 - 🎵 &nbsp; MPB | Samba
 - ❤️ &nbsp; One Piece | JoJo Bizarre Adventures | Overlord
 
+---
+
 ### *Stack*
 
-- HTML | CSS | Estudando JavaScript
+- 🎁 &nbsp; HTML | CSS | Estudando JavaScript
 
-  <a href="https://www.linkedin.com/in/fernando-churros/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Churros-ff69b4?style=plastic&logo=LinkedIn&logoWidth=20" alt="linkedIn."/>
-  </a>
- 
-  <a href="mailto:kappapridelgbt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kappapridelgbt%40gmail.com-ff69b4?style=plastic&logo=Gmail&logoWidth=20" alt="Email."/>
-  </a>
+---
 
+<a href="c">
+<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Churros-ff69b4?style=plastic&logo=LinkedIn&logoWidth=20" alt="linkedIn."/>
+</a> 
+
+<a href="mailto:kappapridelgbt@gmail.com">
+<img src="https://img.shields.io/badge/Email-kappapridelgbt%40gmail.com-ff69b4?style=plastic&logo=Gmail&logoWidth=20" alt="Email."/>
+</a> 
 
 <!--
 **FernandoChurros/FernandoChurros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +35,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
