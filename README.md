@@ -2,26 +2,19 @@
 
 ### *Sobre mim*
 
-- 🎵 &nbsp; MPB | Samba
-- ❤️ &nbsp; One Piece | JoJo Bizarre Adventures | Overlord
+- :musical_note: &nbsp; MPB | Samba
+- :two_hearts: &nbsp; One Piece | JoJo Bizarre Adventures | Overlord
 
 ---
 
 ### *Stack*
 
-- 🎁 &nbsp; HTML | CSS | Estudando JavaScript
+- :books: &nbsp; HTML | CSS | Estudando JavaScript
 
 ---
 
-<p align=center>
-<a href="c">
-<img src="https://img.shields.io/badge/LinkedIn-Fernando%20Churros-ff69b4?style=plastic&logo=LinkedIn&logoWidth=20" alt="linkedIn."/>
-</a> 
-
-<a href="mailto:kappapridelgbt@gmail.com">
-<img src="https://img.shields.io/badge/Email-kappapridelgbt%40gmail.com-ff69b4?style=plastic&logo=Gmail&logoWidth=20" alt="Email."/>
-</a>
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Fernando%20Churros-ff69b4?style=plastic&logo=LinkedIn&logoWidth=20)](https://linkedin.com/in/fernando-churros)
+[![Email Badge](https://img.shields.io/badge/Email-kappapridelgbt%40gmail.com-ff69b4?style=plastic&logo=Gmail&logoWidth=20)](mailto:kappapridelgbt@gmail.com)
 
 <!--
 **FernandoChurros/FernandoChurros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
