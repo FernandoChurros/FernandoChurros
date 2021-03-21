@@ -6,7 +6,7 @@
 
 - 🎵 &nbsp; MPB | Samba.
 - 💕 &nbsp; One Piece | JoJo Bizarre Adventures | Overlord.
-  - 🐧&nbsp; Iniciante no Club Penguin.
+- 🐧 &nbsp; Iniciante no Club Penguin.
 
 ---
 
