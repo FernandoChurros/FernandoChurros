@@ -1,12 +1,16 @@
 <h2>Oie,eu sou o Fernando Churros 👋</h2>
 
 <h3>Sobre mim</h3>
+
 - ❤️ &nbsp; One Piece | JoJo Bizarre Adventures | Overlord
 
 <h3>Stack</h3>
-- HTML | CSS | Estudando JavaScript
 
-<p>
+- HTML | CSS | Estudando JavaScript
+ 
+
+
+<p align=center>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Churros-blueviolet" alt="linkedIn."/>
   </a>
@@ -28,6 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> FernandoChurros/mannoeu
-
-
+-->
