@@ -1,7 +1,7 @@
 <h2>Oie,eu sou o Fernando Churros 👋</h2>
 
 <h3>Sobre mim</h3>
-- ❤️ One Piece | JoJo Bizarre Adventures | Overlord
+- ❤️ &nbsp; One Piece | JoJo Bizarre Adventures | Overlord
 
 <h3>Stack</h3>
 - HTML | CSS | Estudando JavaScript
