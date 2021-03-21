@@ -1,5 +1,16 @@
-### Olá, my name é Fernando Churros 👋
+<h2>Oie,eu sou o Fernando Churros 👋</h2>
 
+<h3>Sobre mim</h3>
+- ❤️ One Piece | JoJo Bizarre Adventures | Overlord
+
+<h3>Stack</h3>
+- HTML | CSS | Estudando JavaScript
+
+<p>
+  <a href="#">
+    <img src="#" alt="LinkedIn">
+  </a>
+</p>
 <!--
 **FernandoChurros/FernandoChurros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> FernandoChurros/mannoeu
+
+
