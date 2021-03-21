@@ -10,6 +10,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Churros-blueviolet" alt="linkedIn."/>
   </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/twitter/follow/FernandoChurros?style=social" alt="Twitter."/>
+  </a>
 </p>
 <!--
 **FernandoChurros/FernandoChurros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
