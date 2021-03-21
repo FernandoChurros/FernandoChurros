@@ -1,4 +1,4 @@
-## *Oie, Aceira um Churros ? 👋*
+## *Oie, Passa-te o Churros, aceitas ? 👋*
 
 ### *Sobre mim*
 
