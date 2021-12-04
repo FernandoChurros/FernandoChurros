@@ -4,7 +4,6 @@
 
 ### *Sobre mim*
 
-- 🎵 &nbsp; MPB | Samba | Rap Nacional.
 - 💕 &nbsp; One Piece | JoJo Bizarre Adventures | Overlord | HxH | Berserk.
 - 🐧 &nbsp; Iniciante no Club Penguin.
 
