@@ -16,7 +16,7 @@
 ---
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Fernando%20Churros-ff69b4?style=plastic&logo=LinkedIn&logoWidth=20)](https://linkedin.com/in/fernando-churros)
-[![Email Badge](https://img.shields.io/badge/Email-kappapridelgbt%40gmail.com-ff69b4?style=plastic&logo=Gmail&logoWidth=20)](mailto:fernando_churros@outlook.com)
+[![Email Badge](https://img.shields.io/badge/Outlook-fernando__churros%40outlook.com-ff69b4?style=plastic&logo=appveyor)](mailto:fernando_churros@outlook.com)
 
 <br>
 
