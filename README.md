@@ -6,7 +6,7 @@
 
 - 💕 &nbsp; One Piece | JoJo Bizarre Adventures | Overlord | HxH | Berserk.
 - 🐧 &nbsp; Iniciante no Club Penguin.
-- 🌅 &nbsp; Aluno na Alura.
+- 🌅 &nbsp; Estudando na Alura.
 
 ---
 
