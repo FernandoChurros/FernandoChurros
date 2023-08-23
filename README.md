@@ -1,23 +1,23 @@
+
 ## *Oie, Passa-te o Churros, aceitas ? 👋*
 
 🌻 Começando a programar, GitHub cultural, sempre codando sobre cultura, e hoje com o maior nome da programação alternativa.
 
 ### *Sobre mim*
 
+
 - 💕 &nbsp; One Piece | JoJo Bizarre Adventures | Overlord | HxH | Berserk.
 - 🐧 &nbsp; Iniciante no Club Penguin.
-- 🌅 &nbsp; Estudando na Alura.
+- 🌅 &nbsp; Autodidata.
 
----
+### 🛠 *Stack*
 
-### *Stack*
+- JavaScript | HTML | CSS
 
-- 📚 &nbsp; HTML | CSS | Estudando JavaScript
+### *Social*
 
----
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-telles-a5b852288/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Fernando%20Churros-ff69b4?style=plastic&logo=LinkedIn&logoWidth=20)](https://linkedin.com/in/fernando-churros)
-
-<br>
+</br>
 
 <h2 align=right> 💘 VOCÊ NÃO MERECE SER FELIZ 💘 </h2>
